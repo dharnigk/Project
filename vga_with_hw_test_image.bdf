@@ -390,22 +390,22 @@ agreement for further details.
 	)
 	(parameter
 		"h_pulse"
-		"64"
+		"208"
 		""
 		(type "PARAMETER_SIGNED_DEC")	)
 	(parameter
 		"h_bp"
-		"120"
+		"336"
 		""
 		(type "PARAMETER_SIGNED_DEC")	)
 	(parameter
 		"h_pixels"
-		"640"
+		"1920"
 		""
 		(type "PARAMETER_SIGNED_DEC")	)
 	(parameter
 		"h_fp"
-		"16"
+		"128"
 		""
 		(type "PARAMETER_SIGNED_DEC")	)
 	(parameter
@@ -420,12 +420,12 @@ agreement for further details.
 		(type "PARAMETER_SIGNED_DEC")	)
 	(parameter
 		"v_bp"
-		"16"
+		"38"
 		""
 		(type "PARAMETER_SIGNED_DEC")	)
 	(parameter
 		"v_pixels"
-		"480"
+		"1080"
 		""
 		(type "PARAMETER_SIGNED_DEC")	)
 	(parameter
@@ -435,7 +435,7 @@ agreement for further details.
 		(type "PARAMETER_SIGNED_DEC")	)
 	(parameter
 		"v_pol"
-		"'0'"
+		"'1'"
 		""
 		(type "PARAMETER_ENUM")	)
 	(drawing
